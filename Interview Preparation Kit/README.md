@@ -20,5 +20,12 @@ _____
 ### Arrays
 _____
 
+|   Index #  |  Question  | My Solution | Difficulty | Notes | 
+|:----:|:---:|:---:|:---:|:---:|
+|  1  | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)  |  [Solution]()   |   Easy    |     |
+|  2  | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)  |  [Solution]()   |   Easy    |     |
+|  3  | []()  |  [Solution]()   |   Easy    |     |
+|  4  | []()  |  [Solution]()   |   Easy    |     |
+
 
 
