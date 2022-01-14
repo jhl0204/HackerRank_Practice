@@ -6,7 +6,7 @@
   <br><br>
 </p>
 
-To practice my data structures and algorithms, I've committed to solving one HackerRank problem a day. See below for my approach to the problem and solutions! All the problems are from _Interview Preparation Kit_ from HackerRank. 
+To practice my data structures and algorithms, I've made a self-committment to solve one HackerRank problem a day. See below for my approach to the problem and solutions! All the problems are from _Interview Preparation Kit_ from HackerRank. 
 
 ### Warm-Up Challenges
 _____
